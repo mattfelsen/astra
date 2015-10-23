@@ -47,8 +47,8 @@ Requires:
 * homebrew from http://brew.sh/
 
 At the terminal command line:
-$ brew install homebrew/science/opencv
 $ brew install sfml
+$ brew install libusb
 
 Now you can run the pre-built binaries from the Astra SDK bin/ directory.
 
